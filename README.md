@@ -76,6 +76,5 @@ Task:
 ### Scores by School Type
 
 * Grouped schools based on school type (Charter vs. District).
-![image](https://user-images.githubusercontent.com/79343347/124476376-3f2fe800-dd92-11eb-9e43-06babb8f0761.png)
 
 
