@@ -1,3 +1,6 @@
+
+![Education](Images/education.png)
+
 PyCitySchools
 
 Context:
