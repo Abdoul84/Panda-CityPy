@@ -1,5 +1,5 @@
 
-![Education](Images/education.png)
+[Education](Images/education.png)
 
 PyCitySchools
 
